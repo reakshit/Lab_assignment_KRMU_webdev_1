@@ -4,7 +4,7 @@ body {
   margin: 0;
   padding: 0;
 }
-
+/* header and nav bar */
 #header {
   background-color: #0078d7;
   color: white;
@@ -31,7 +31,7 @@ body {
 #nav a:hover {
   text-decoration: underline;
 }
-
+/* main body */
 #main, #About, #Projects, #Contact {
   background-color: white;
   width: 80%;
